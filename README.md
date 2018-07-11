@@ -2,9 +2,13 @@
 List of Tech blogs rss feeds
 
 http://feeds.feedburner.com/HighScalability
+
 https://medium.com/feed/airbnb-engineering
+
 http://engineering.ifttt.com/feed.xml
+
 http://engineering.khanacademy.org/rss.xml
+
 https://medium.com/feed/myntra-engineering
 http://feeds.feedburner.com/soundcloudapiblog
 https://stackoverflow.blog/engineering/feed/
