@@ -79,8 +79,6 @@ https://www.oreilly.com/topics/ai/feed.atom
 
 https://medium.com/feed/tag/deep-learning
 
-https://blog.gofynd.com/feed
-
 https://code.mixpanel.com/feed/
 
 https://engineering.mongodb.com/post?format=rss
